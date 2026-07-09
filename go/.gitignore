@@ -1,0 +1,30 @@
+# Go
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.coverage/
+*.cover
+
+# Output
+output/
+exports/
+obsidian-vault/
